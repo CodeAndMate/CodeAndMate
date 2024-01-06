@@ -7,7 +7,7 @@
 
 - 📫 Contactanos en **equipo@codeandmate.com.ar**
 
-<h3 align="left">O Contactanos también en nuestras redes:</h3>
+<h3 align="left">Contactanos también en nuestras redes:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/company/code-mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/code-mate" height="30" width="40" /></a>
 <a href="https://www.instagram.com/codeandmate_ok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codeandmate_ok/" height="30" width="40" /></a>
