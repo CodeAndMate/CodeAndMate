@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, somos Code & Mate <img src="https://www.codeandmate.com/Logo.png" alt="logo" width="40" height="40"/></h1>
 <h2 align="center">Una Consultora de Software y Academia de Capacitaciones en IT</h2>
 
-- 🌱 En costante aprendizaje de tecnologías como **Astro, NodeJS, NestJS, React, Angular, entre otras.**
+- 🌱 En costante aprendizaje de tecnologías y crecimiento para mejorar la calidad de nuestros servicios.
 
-- 👨‍💻 Nuestros clientes/proyectos están disponibles en [https://www.codeandmate.com](https://www.codeandmate.com)
+- 👨‍💻 Nuestros clientes y proyectos están disponibles en [https://www.codeandmate.com](https://www.codeandmate.com)
 
 - 📫 Contactanos en **equipo@codeandmate.com.ar**
 
-<h3 align="left">Contactanos en nuestras redes:</h3>
+<h3 align="left">O Contactanos también en nuestras redes:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/company/code-mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/code-mate" height="30" width="40" /></a>
 <a href="https://www.instagram.com/codeandmate_ok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codeandmate_ok/" height="30" width="40" /></a>
